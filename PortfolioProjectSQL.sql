@@ -1,8 +1,8 @@
---SELECT * FROM PortfolioProject..RealEstateFinancials
---Order By 2
+SELECT TOP 20 * FROM PortfolioProject..RealEstateFinancials
+Order By 2
 
---SELECT * FROM PortfolioProject..RealEstateClass
---Order By 2,4
+SELECT TOP 20 * FROM PortfolioProject..RealEstateClass
+Order By 2,4
 
 -- Temp Table
 
