@@ -30,7 +30,6 @@ JOIN RealEstateClass cla
 ORDER BY 6,2 desc
 
 --Creating View for Visualizations
-
 --
 DROP VIEW IF EXISTS AvgRatio
 --
